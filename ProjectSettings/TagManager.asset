@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TrackingObject
+  - Actors
+  - Ball
+  - Ground
+  - BallSpawner1
+  - BallSpawner3
+  - BallSpawner2
+  - Hole
+  - ClubSpawner2
+  - ClubSpawner1
+  - ClubSpawner3
+  - tp1
+  - tp2
+  - tp3
+  - tp0
+  - Putter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - OutBounds
+  - Wall
+  - Interactable
+  - Player
+  - Club1
+  - Club2
+  - Club3
+  - Club4
+  - Club5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

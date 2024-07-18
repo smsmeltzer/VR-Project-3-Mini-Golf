@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TestAssets/TestScenes/MoonCourse2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/TestAssets/TestScenes/MultiplayerTesting.unity
+    guid: 4fa611358fc708c47adb5ff1ea32d0d4
+  - enabled: 0
+    path: Assets/TestAssets/TestScenes/ClubSpawn.unity
+    guid: d5c296cc8a6cda247a437c8148b0a960
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 6d1ff7284fb8b28449f46bd145fcf9e9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a784f752c9352d44197cec85ed1a0a98, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0dad585cf5973a940892273ed3fec6a8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 16c0689a67114c746a5adb932aaa4e64, type: 2}
